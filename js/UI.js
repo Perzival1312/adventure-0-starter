@@ -1,7 +1,7 @@
 // UI.js
 
 // eslint-disable-next-line no-var
-var OregonH = OregonH || {};
+let OregonH = OregonH || {};
 
 OregonH.UI = {};
 

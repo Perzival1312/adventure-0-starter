@@ -1,7 +1,7 @@
 // Caravan.js
 
 // eslint-disable-next-line no-var
-var OregonH = OregonH || {};
+let OregonH = OregonH || {};
 
 // constants
 OregonH.WEIGHT_PER_OX = 20;
